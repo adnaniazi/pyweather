@@ -1,0 +1,44 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/01d.png</file>
+    <file>icons/02d.png</file>
+    <file>icons/03d.png</file>
+    <file>icons/04d.png</file>
+    <file>icons/09d.png</file>
+    <file>icons/10d.png</file>
+    <file>icons/11d.png</file>
+    <file>icons/13d.png</file>
+    <file>icons/50d.png</file>
+    <file>icons/01n.png</file>
+    <file>icons/02n.png</file>
+    <file>icons/03n.png</file>
+    <file>icons/04n.png</file>
+    <file>icons/09n.png</file>
+    <file>icons/10n.png</file>
+    <file>icons/11n.png</file>
+    <file>icons/13n.png</file>
+    <file>icons/50n.png</file>
+	<file>icons/previous.png</file>
+	<file>icons/next.png</file>
+	<file>icons/search.png</file>
+
+    <file>icons/date.png</file>
+    <file>icons/time.png</file>
+    <file>icons/longitude.png</file>
+    <file>icons/latitude.png</file>
+    <file>icons/sunrise.png</file>
+    <file>icons/sunset.png</file>
+    <file>icons/humidity.png</file>
+    <file>icons/pressure.png</file>
+    <file>icons/visibility.png</file>
+    <file>icons/wind-speed.png</file>
+    <file>icons/direction.png</file>
+    <file>icons/summary.png</file>
+    <file>icons/gui-icon.png</file>
+	
+    <file>icons/email.png</file>
+    <file>icons/iib-logo.png</file>
+    <file>icons/cc-license.png</file>	
+
+</qresource>
+</RCC>
